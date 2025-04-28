@@ -63,8 +63,8 @@
  2. **ติดตั้ง Dependencies**:
    - ไปที่โฟลเดอร์โปรเจคและติดตั้ง dependencies ที่จำเป็น:
      ```bash
-     cd repository-name
-     pip install -r requirements.txt
+     cd conference_booking
+     pip install -r (name).txt
      ```
 
 3. **ตั้งค่าฐานข้อมูล SQLite**:
